@@ -6,8 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aakanksha%20Kukade-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakanksha-kukade)
 [![Email](https://img.shields.io/badge/Email-aakankshakukade12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakankshakukade12@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Nagpur%2C%20India-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Nagpur,India)
-[![Profile Views](https://komarev.com/ghpvc/?username=aakankshakukade&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)](https://github.com/aakankshakukade)
 </div>
+
 ---
 
 ## 🧠 Who I Am
@@ -29,6 +29,7 @@ profile = {
     "contact"    : "aakankshakukade12@gmail.com",
 }
 ```
+
 ---
 
 ## ⚡ Skill Badges
@@ -58,6 +59,7 @@ profile = {
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile%20Scrum-6366f1?style=for-the-badge&logo=scrumalliance&logoColor=white)
 </div>
+
 ---
 
 ## 🚀 Featured Projects
@@ -105,11 +107,15 @@ profile = {
 `Stored Procedures` `Complex Joins` `Azure SQL` `Azure Cloud` `Data Pipelines`
 
 </div>
+
 ---
 
 ## 📫 Let's Connect
+
 <div align="center">
 I'm actively seeking **Data Analyst** and **Data Scientist** roles in India. If you're hiring or know someone who is — let's talk!
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakanksha-kukade)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakankshakukade12@gmail.com)
 </div>
+
+---
