@@ -122,23 +122,6 @@ profile = {
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aakankshakukade&show_icons=true&theme=react&bg_color=0d1117&border_color=30363d&title_color=93c5fd&text_color=8b949e&icon_color=6366f1&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakankshakukade&layout=compact&theme=react&bg_color=0d1117&border_color=30363d&title_color=93c5fd&text_color=8b949e&icon_color=6366f1&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=aakankshakukade&theme=react&background=0d1117&border=30363d&ring=6366f1&fire=93c5fd&currStreakLabel=93c5fd)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 💼 Professional Highlights
 
 | 🏢 Organization | 🎯 Role | 📅 Period | 🌟 Key Contribution |
