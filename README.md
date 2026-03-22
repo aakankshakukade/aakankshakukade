@@ -34,30 +34,36 @@ profile = {
 
 ## ⚡ Skill Badges
 <div align="center">
+
 ### 🐍 Languages & Querying
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 ### 🤖 Machine Learning & AI
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white)
+
 ### 📊 Business Intelligence
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
 ### ☁️ Cloud & Data Engineering
 ![Azure](https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0089D0?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL%20Pipelines-1a3a5c?style=for-the-badge&logo=apache&logoColor=white)
+
 ### 🛠️ Tools & Methodology
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile%20Scrum-6366f1?style=for-the-badge&logo=scrumalliance&logoColor=white)
+
 </div>
 
 ---
@@ -113,9 +119,13 @@ profile = {
 ## 📫 Let's Connect
 
 <div align="center">
+
 I'm actively seeking **Data Analyst** and **Data Scientist** roles in India. If you're hiring or know someone who is — let's talk!
+
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakanksha-kukade)
+
 [![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakankshakukade12@gmail.com)
+
 </div>
 
 ---
